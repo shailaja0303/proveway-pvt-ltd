@@ -1,4 +1,4 @@
-
+// to expand the boxes when radio button is clicked
 
 document.addEventListener("DOMContentLoaded", function() {
     const radios = document.querySelectorAll('input[type="radio"][name="unit"]');
